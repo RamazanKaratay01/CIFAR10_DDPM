@@ -13,4 +13,4 @@ This notebook is modified from these 2 excellent repo:
 
 
 
-[https://drive.google.com/file/d/1LJKESGuHfjtUWlhGcczv5LiCE3CBQie4/view?usp=sharing](Pretrained model)
+[Pretrained model](https://drive.google.com/file/d/1LJKESGuHfjtUWlhGcczv5LiCE3CBQie4/view?usp=sharing)
