@@ -9,3 +9,8 @@ This notebook is modified from these 2 excellent repo:
 
 
 [Diffusion Model (U-Net) by EBRAHIM ELGAZAR](https://www.kaggle.com/code/ebrahimelgazar/diffusion-model-u-net)
+
+
+
+
+[https://drive.google.com/file/d/1LJKESGuHfjtUWlhGcczv5LiCE3CBQie4/view?usp=sharing](Pretrained model)
