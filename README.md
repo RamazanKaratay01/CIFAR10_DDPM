@@ -18,10 +18,7 @@ This notebook is modified from these 2 excellent repo:
 
 
 
-Samples
 
 
-(sample.png)
 
-
-(sample.png)
+![Samples](sample.png)
