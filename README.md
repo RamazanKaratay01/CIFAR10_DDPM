@@ -1,4 +1,4 @@
-# CIFAR10_DDPM
+# CIFAR10 DDPM
 This notebook is modified from these 2 excellent repo:
 
 
