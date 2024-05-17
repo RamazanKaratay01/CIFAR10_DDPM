@@ -8,7 +8,7 @@ This notebook is modified from these 2 excellent repo:
 
 
 
-[Diffusion Model (U-Net) by EBRAHIM ELGAZAR](https://www.kaggle.com/code/ebrahimelgazar/diffusion-model-u-net)
+[Diffusion Model (U-Net) by Ebrahim Elgazar](https://www.kaggle.com/code/ebrahimelgazar/diffusion-model-u-net)
 
 
 
