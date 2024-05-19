@@ -1,6 +1,5 @@
-# -*- coding: utf-8 -*-
-"""CIFAR10_DDPM.ipynb
-This notebook is modified from,
+"""
+This script is modified from,
 https://github.com/cloneofsimo/minDiffusion and https://www.kaggle.com/code/ebrahimelgazar/diffusion-model-u-net
 """
 
