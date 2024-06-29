@@ -29,3 +29,8 @@ Link to: [Pretrained model](https://drive.google.com/file/d/1LJKESGuHfjtUWlhGccz
 
 
 ![Samples](sample_.png)
+
+
+
+
+Veri madenciliği dersi için hazırlanan bu projeyle ilgili [Türkçe rapor](https://drive.google.com/file/d/122-Iw-Nnfia-XA6TTNWxE1G10DDnlXkH/view?usp=sharing)
